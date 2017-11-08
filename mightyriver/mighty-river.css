@@ -1,0 +1,27 @@
+/*
+Font: 		Mighty River
+Style: 		Regular
+URL: 		https://www.youworkforthem.com/font/T7181/mighty-river
+Foundry: 	BLKBK
+Foundry: 	https://www.youworkforthem.com/designer/403/blkbk
+Copyright:	Copyright (c) 2016 by BLKBK. All rights reserved.
+Version: 	17
+Created:	November 24, 2016
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'MightyRiver';
+	src: url('mighty-river.eot');
+	src: url('mighty-river.eot?#iefix') format('embedded-opentype'),
+             url('mighty-river.woff2') format('woff2'),
+	     url('mighty-river.woff') format('woff'),
+	     url('mighty-river.ttf') format('truetype'),
+	     url('mighty-river.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
