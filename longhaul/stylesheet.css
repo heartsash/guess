@@ -1,0 +1,11 @@
+/* Font: Long Haul */
+
+@font-face {
+    font-family: 'longhaulregular';
+    src: url('longhaul-webfont.woff2') format('woff2'),
+         url('longhaul-webfont.woff') format('woff'),
+         url('golden-plains.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
