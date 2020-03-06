@@ -1,7 +1,7 @@
 /* Font: Long Haul */
 
 @font-face {
-    font-family: 'longhaulregular';
+    font-family: 'longhaul';
     src: url('longhaul.woff2') format('woff2'),
          url('longhaul.woff') format('woff'),
          url('longhaul.ttf') format('truetype');
